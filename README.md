@@ -1,6 +1,6 @@
 # egypt_has_fallen
 
-A [ZetaGlest](https://github.com/ZetaGlest) network scenario
+A [Glest](https://github.com/Glest) network scenario
 
 An evil faction, known only as "Magic" has invaded and destroyed most
 of Egypt's kingdom. In a futile attempt to fight off Magic's army,
